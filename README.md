@@ -1,2 +1,2 @@
-# CodeBox
-A repository for all personal projects
+# _CodeBox_
+_A repository for all personal projects_
